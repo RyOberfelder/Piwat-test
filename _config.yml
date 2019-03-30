@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 # Tipue search settings
 tipue_search:
-  include: [ freedom ]
+  include: [ _freedom ]
     pages: true
   exclude:
     files: [search.html]
